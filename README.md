@@ -2,7 +2,7 @@
 
 Possible consider variable 
 
-# 1.Traninng data:
+# 1.Traning data:
     1. Window_Step_size
     2. Window_size
     3. Price only & price + volume together 
