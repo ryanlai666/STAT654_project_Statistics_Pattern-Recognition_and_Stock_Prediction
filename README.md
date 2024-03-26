@@ -5,7 +5,7 @@ Traninng data:
 1. Window_Step_size
 2. Window_size
 3. Price only & price + volume together 
-4. Data selection 
+4. Data selection:
     a. all date
     b. all date before 2000
     c. all date before 2010
