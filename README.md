@@ -13,9 +13,9 @@ Traninng data:
     all date after 2015
 
 Output Comparsion:
-  which classifiation/shape is the best 
-  1 day 5 day 10 day performance 
-  whether Alpha / Beta. whether it is win over market  
+1. which classifiation/shape is the best 
+2. 1 day 5 day 10 day performance 
+3. whether Alpha / Beta. whether it is win over market  
 
 
 
