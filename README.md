@@ -19,4 +19,3 @@ Output Comparsion:
 
 
 
-![image](https://github.com/ryanlai666/STAT654_project_stock/assets/99899065/c936fc0e-305d-4f0a-ab7f-6d73618b6387)
