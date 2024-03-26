@@ -11,7 +11,7 @@ Traninng data:
     3. all date before 2010
     4. all date before 2020
     5. all date after 2015
-fiting model comparsion
+5. fiting model comparsion
    1. TSlearn libary (?)
    2. Kmean from Sklearn
    3. DTW Keam
