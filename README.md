@@ -6,11 +6,11 @@ Traninng data:
 2. Window_size
 3. Price only & price + volume together 
 4. Data selection:
-    a) all date
-    b) all date before 2000
-    c) all date before 2010
-    d) all date before 2020
-    e) all date after 2015
+    1. all date
+    2. all date before 2000
+    3. all date before 2010
+    4. all date before 2020
+    5. all date after 2015
 fiting model comparsion
    1. TSlearn libary (?)
    2. Kmean from Sklearn
