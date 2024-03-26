@@ -13,9 +13,9 @@ Possible consider variable
         4. all date before 2020
         5. all date after 2015
 # 2. fiting model comparsion:
-   1. TSlearn libary (?)
-   2. Kmean from Sklearn
-   3. DTW Keam
+       1. TSlearn libary (?)
+       2. Kmean from Sklearn
+       3. DTW Keam
 
 # 3.Output Comparsion:
     1. which classifiation/shape is the best 
