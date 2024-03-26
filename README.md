@@ -11,6 +11,10 @@ Traninng data:
     c) all date before 2010
     d) all date before 2020
     e) all date after 2015
+fiting model comparsion
+   1. TSlearn libary (?)
+   2. Kmean from Sklearn
+   3. DTW Keam
 
 Output Comparsion:
 1. which classifiation/shape is the best 
