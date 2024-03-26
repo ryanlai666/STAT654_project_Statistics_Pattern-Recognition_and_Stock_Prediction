@@ -13,7 +13,7 @@ Possible consider variable
         4. all date before 2020
         5. all date after 2015
 
-# 2. fiting model comparsion:
+# 2. fitting model comparsion:
        1. TSlearn libary (?)
        2. Kmean from Sklearn
        3. DTW Kmean
