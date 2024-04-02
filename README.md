@@ -21,7 +21,8 @@ Possible consider variable
 # 3.Output Comparsion:
     1. which classifiation/shape is the best 
     2. 1 day 5 day 10 day performance 
-    3. whether Alpha / Beta. whether it is win over market  
+    3. whether Alpha / Beta. whether it is win over market 
+    4. sampling from all data/ sampling from older data/ sampling from newer data
 
 
 
