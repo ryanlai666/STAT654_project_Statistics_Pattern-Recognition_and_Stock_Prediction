@@ -23,6 +23,8 @@ Possible consider variable
     2. 1 day 5 day 10 day performance 
     3. whether Alpha / Beta. whether it is win over market 
     4. sampling from all data/ sampling from older data/ sampling from newer data
+    5. test sample distribution and whole dataset distribution
+
 
 
 
