@@ -1,4 +1,5 @@
-## STAT654_project_stock
+## STAT654_projec
+Statistics Pattern Recognition and Stock Prediction
 
 Possible consider variable 
 
